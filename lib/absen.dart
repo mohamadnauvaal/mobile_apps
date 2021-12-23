@@ -15,7 +15,7 @@ class _absenState extends State<absen> {
         appBar: AppBar(
           backgroundColor: Color(0xff112d35),
           leading: Icon(Icons.arrow_back_ios),
-          title: Text('Absen'),
+          title: Text('tes'),
         ),
         body: Column(
           children: <Widget>[
